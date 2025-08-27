@@ -6,8 +6,7 @@ The full source code is private, but I’d be happy to provide access or a demo 
 
 If you’d like to see the full implementation, please contact me at [📩](mailto:libronika@gmail.com)
 
-Demo: 
-Test this app yourself: 
+Test this app yourself: [www.unitbites.eu](https://www.unitbites.eu/)
 
 ## Table of Contents
 
@@ -20,16 +19,46 @@ Test this app yourself:
  7. [Future Improvements](#future-improvements)
 
 ## About UnitBites
-Content of the subheading
+
+UnitBites is a web application built with home cooks in mind. It is a go to place to recalculate and store recipes. 
+On top of it, users have an option to donwload a recipe as in a PDF format - quite useful for cooking and grocery shopping.
 
 ## Demo
-Content of the subheading 
+
+The project is currently live, feel free to check it out yourself: [www.unitbites.eu](https://www.unitbites.eu/).
+Please note backend is currently running on Render free tier, so cold start is to be expected.
 
 ## Features
-Content of the subheading 
+
+- Create/update/delete user account
+- Recalculate recipes between imperial and metric systems
+- Save recalculated recipes
+- Filter recipes by favorite and/or recipe title
+- Sort recipes by date
+- Download recipe in a PDF format
+- Delete recipe
+- Light/Dark mode
+
+More to come... 
 
 ## Tech Stack
-Content of the subheading 
+
+1. Frontend:
+    - React & Vite
+    - JS
+    - CSS
+    - HTML5
+3. Backend:
+    - Python
+    - Flask
+5. Data:
+    - SQLAlchemy
+    - PostgreSQL
+7. User Management:
+    - Clerk
+9. Version Control:
+    - Git
+    - GitHub
 
 ## Architecture Overview
 Content of the subheading 
