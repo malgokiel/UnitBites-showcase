@@ -78,7 +78,7 @@ flowchart TD
 
     subgraph Backend [⚙️ Backend - Render]
         BE[Python + Flask]
-        BE <--> DB[(🗄️ PostgreSQL - Render)]
+        BE <--> DB[(🗄️ PostgreSQL - Neon.tech)]
         BE <--> ClerkAPI[(Clerk API ☁️)]
     end
 
