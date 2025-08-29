@@ -121,7 +121,7 @@ def handle_clerk_webhook():
 ```
 [Full webhook implementation →](examples/clerk_webhook.py)
 
-### Ingredients parser
+### Ingredients Parser
 this function:
  - Handles fractions (½ cup sugar)
  - Handles ranges (1–2 jalapeños)
@@ -178,5 +178,13 @@ export function fetchUserRecipes(token) {
 [Full UserRecipes implementation →](examples/USerRecipes.jsx)
 
 ## Future Improvements
-Content of the subheading 
+
+- Social logins beyond Google (Microsoft, Apple, etc.)
+- Tags and tag based search
+- Ingredient substitution suggestions
+- Faster recalculation with LLM
+- Recipe resizing
+  
+
+
 
